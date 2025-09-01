@@ -1,4 +1,4 @@
-import Wrapper from "../Navigation/Wrapper/Wrapper";
+import Wrapper from "../Wrapper/Wrapper";
 import { Button } from "../ui/button";
 
 const GreatCoffee = () => {

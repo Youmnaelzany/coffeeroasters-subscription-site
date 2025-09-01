@@ -10,7 +10,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 
-import Wrapper from "./Wrapper/Wrapper";
+import Wrapper from "../Wrapper/Wrapper";
 
 const Footer = () => {
   return (
@@ -30,23 +30,23 @@ const Footer = () => {
               <li>
                 <Link
                   href={"/"}
-                  className="cursor-pointer font-[barlow] text-[0.75rem] leading-[0.9375rem] font-bold tracking-[0.0575rem] text-[#83888F] transition-colors duration-300 ease-in-out hover:text-[#FEFCF7]"
+                  className="cursor-pointer font-[barlow] text-[0.75rem] leading-[0.9375rem] font-bold tracking-[0.0575rem] text-[#83888F] uppercase transition-colors duration-300 ease-in-out hover:text-[#FEFCF7]"
                 >
                   Home
                 </Link>
               </li>
               <li>
                 <Link
-                  href={"/"}
-                  className="cursor-pointer font-[barlow] text-[0.75rem] leading-[0.9375rem] font-bold tracking-[0.0575rem] text-[#83888F] transition-colors duration-300 ease-in-out hover:text-[#FEFCF7]"
+                  href={"/about"}
+                  className="cursor-pointer font-[barlow] text-[0.75rem] leading-[0.9375rem] font-bold tracking-[0.0575rem] text-[#83888F] uppercase transition-colors duration-300 ease-in-out hover:text-[#FEFCF7]"
                 >
                   About us
                 </Link>
               </li>
               <li>
                 <Link
-                  href={"/"}
-                  className="cursor-pointer font-[barlow] text-[0.75rem] leading-[0.9375rem] font-bold tracking-[0.0575rem] text-[#83888F] transition-colors duration-300 ease-in-out hover:text-[#FEFCF7]"
+                  href={"/plan"}
+                  className="cursor-pointer font-[barlow] text-[0.75rem] leading-[0.9375rem] font-bold tracking-[0.0575rem] text-[#83888F] uppercase transition-colors duration-300 ease-in-out hover:text-[#FEFCF7]"
                 >
                   Create your plan
                 </Link>
