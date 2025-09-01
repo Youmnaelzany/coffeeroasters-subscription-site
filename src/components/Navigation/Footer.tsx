@@ -14,7 +14,7 @@ import Wrapper from "../Wrapper/Wrapper";
 
 const Footer = () => {
   return (
-    <footer className="px-4 py-16 md:px-6 lg:px-0">
+    <footer className="px-4 py-16 sm:px-6 lg:px-0">
       <Wrapper className="flex flex-col items-center justify-center gap-8 bg-[#2C343E] p-8 lg:flex-row lg:justify-between">
         <div className="flex flex-col items-center justify-center gap-8 md:gap-4 lg:flex-row lg:justify-between lg:gap-12">
           <Link href={"/"}>

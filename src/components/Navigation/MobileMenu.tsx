@@ -17,7 +17,7 @@ const MobileMenu = () => {
         <SheetTrigger>
           <PanelsTopLeft className="size-6 text-[#333D4B]" />
         </SheetTrigger>
-        <SheetContent className="w-full bg-gradient-to-t from-[#FEFCF7] to-[#FEFCF7]/70 pt-16">
+        <SheetContent className="w-full bg-gradient-to-t from-[#FEFCF7] to-[#FEFCF7]/70 pt-24">
           <SheetHeader>
             <SheetDescription>
               <nav>

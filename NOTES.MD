@@ -7,6 +7,7 @@
 - font-[fraunces] font-black text-[1.5rem] leading-[2rem] tracking-normal - [H4 Fraunces Black, 24px, 32px line]
 - font-[barlow] font-normal text-[1rem] leading-[1.625rem] tracking-normal - [Body Barlow Regular, 16px, 26px line]
 - font-[barlow] font-bold text-[0.75rem] leading-[0.9375rem] tracking-[0.0575rem] - [Navigation Menu Barlow Bold, 12px, 15px line, 1.0 Character]
+- font-[barlow] font-normal text-[0.9375rem] leading-[1.5625rem] tracking-normal - [Body Barlow Regular, 15px, 25px line]
 
 ## Colors
 
