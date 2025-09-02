@@ -28,7 +28,7 @@ function Wrapper<T extends ElementType = "div">({
       {...rest}
       className={cn(
         "mx-auto",
-        padded && "px-4 sm:px-6 lg:px-8",
+        padded && "px-6 sm:px-12 lg:px-16",
         variant === "default" && "max-w-7xl",
         variant === "narrow" && "max-w-2xl",
         variant === "wide" && "max-w-screen-2xl",

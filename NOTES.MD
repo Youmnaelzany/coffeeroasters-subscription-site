@@ -20,5 +20,3 @@
 - text-[#E2DEDB] - bg-[#E2DEDB]
 - text-[#F4F1EB] - bg-[#F4F1EB]
 - text-[#2C343E] - bg-[#2C343E]
-
-w-[327px] md:w-[223px] lg:w-[285px]
